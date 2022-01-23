@@ -1,0 +1,17 @@
+.bg-color{
+    background-color: #FEEAE9;
+}
+.bg-watch{
+    background-color: #FF9C35;
+}
+.bg-bag{
+    background-color: #FF589B;
+}
+.bg-shoe{
+    background-color: #4289FF;
+}
+.btn-color{
+    background-color: #FF589B;
+    padding: 10px 20px;
+    border-radius: 5%;
+}
